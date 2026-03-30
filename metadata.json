@@ -1,0 +1,5 @@
+{
+  "name": "CryptoPulse Converter",
+  "description": "A real-time cryptocurrency converter with live price tracking and historical charts.",
+  "requestFramePermissions": []
+}
